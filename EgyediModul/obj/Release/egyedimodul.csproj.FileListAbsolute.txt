@@ -1,0 +1,10 @@
+C:\DNN_dev\bin\egyedimodul.dll.config
+C:\DNN_dev\bin\egyedimodul.dll
+C:\DNN_dev\bin\egyedimodul.pdb
+C:\DNN_dev\DesktopModules\egyedi-modul\egyedimodul\obj\Release\egyedimodul.csproj.AssemblyReference.cache
+C:\DNN_dev\DesktopModules\egyedi-modul\egyedimodul\obj\Release\Egyedi.Dnn.egyedimodul.App_LocalResources.Settings.resources
+C:\DNN_dev\DesktopModules\egyedi-modul\egyedimodul\obj\Release\egyedimodul.csproj.GenerateResource.cache
+C:\DNN_dev\DesktopModules\egyedi-modul\egyedimodul\obj\Release\egyedimodul.csproj.CoreCompileInputs.cache
+C:\DNN_dev\DesktopModules\egyedi-modul\egyedimodul\obj\Release\egyedimodul.csproj.CopyComplete
+C:\DNN_dev\DesktopModules\egyedi-modul\egyedimodul\obj\Release\egyedimodul.dll
+C:\DNN_dev\DesktopModules\egyedi-modul\egyedimodul\obj\Release\egyedimodul.pdb
